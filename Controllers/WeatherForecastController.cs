@@ -8,7 +8,7 @@ namespace testing.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "LEt's get it!", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "It worked!", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
